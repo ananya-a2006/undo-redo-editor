@@ -10,7 +10,7 @@ This project allows you to **type text**, and then **undo** or **redo** your cha
 
 ---
 
-![ur Image](images/ur1.png)
+![ur Image](images/ur2.png)
 
 
 ---
